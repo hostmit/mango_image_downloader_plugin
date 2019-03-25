@@ -28,10 +28,4 @@ function getLinks() {
 
 	return links;
 }
-
-
-
-
-
-
 getLinks();
